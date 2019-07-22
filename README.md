@@ -28,7 +28,7 @@ npm start
 
 ## To Do:
 
-#### User [(User model)](src/app/models/User.js)
+#### User
 
 - [ ] Store user
 - [ ] Session login
